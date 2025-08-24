@@ -1,4 +1,4 @@
-<img src="https://iili.io/Fpm5aqP.png" alt="Floyd Client Logo" width="320" height="120">
+<img src="https://iili.io/KJo52vn.png" alt="Floyd Client Logo" width="320" height="120">
 <br>
 <table>
   <tr>
