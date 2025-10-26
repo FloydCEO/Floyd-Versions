@@ -17,6 +17,6 @@
 
 Join the community on Discord for updates, support, and sneak peeks:  
 
-[![Discord](https://iili.io/FpmXh9p.png)](https://discord.gg/HjRkJFSJpD)  
+[![Discord](https://iili.io/KJo52vn.png)](https://discord.gg/HjRkJFSJpD)  
 
 Welcome to the Official GitHub for Floyd Client, please make sure to only download the file from the official Floyd bot, in the official discord server
